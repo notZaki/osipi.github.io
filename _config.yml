@@ -25,7 +25,7 @@ author: osipi
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://www.osipi.org'
+url: 'https://notZaki.github.io/osipi.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -58,7 +58,7 @@ plugins:
 #   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
 #               /____/
 #
-paginate: 50                      # Paginates all X entries
+paginate: 5                      # Paginates all X entries
 paginate_path: "news/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
